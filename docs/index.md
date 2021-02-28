@@ -20,4 +20,4 @@ features:
 footer: Open-source MIT Licensed | Copyright © 2019-present<br />Powered by tsejx
 ---
 
-![map](/algorithm-guidebook/public/map.jpg)
+![](http://qiniumovie.hasakei66.com/picgo/20210226165512.jpg)
