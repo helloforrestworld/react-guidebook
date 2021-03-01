@@ -1,12 +1,12 @@
 ---
-title: Algorithm GuideBook - 📚 数据结构与算法指南
+title: React GuideBook - 📚 React学习指南
 order: 10
 hero:
-  title: Algorithm GuideBook
-  desc: 📚 数据结构与算法指南
+  title: React GuideBook
+  desc: 📚 React学习指南
   actions:
     - text: 开始阅读
-      link: /data-structure/avl
+      link: /core
 features:
   - icon: https://gw.alipayobjects.com/zos/bmw-prod/881dc458-f20b-407b-947a-95104b5ec82b/k79dm8ih_w144_h144.png
     title: 完整体系
@@ -19,5 +19,3 @@ features:
     desc: 体系化整理，随时查阅具体技术细节，方便前端开发者日常开发
 footer: Open-source MIT Licensed | Copyright © 2019-present<br />Powered by tsejx
 ---
-
-![](http://qiniumovie.hasakei66.com/picgo/20210226165512.jpg)
